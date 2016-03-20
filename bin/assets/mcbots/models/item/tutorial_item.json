@@ -1,0 +1,6 @@
+{
+    "parent":"mcbots:item/standard_item",
+    "textures": {
+        "layer0":"mcbots:items/tutorial_item"
+    }
+}
